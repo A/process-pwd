@@ -3,7 +3,6 @@
 Just wrapper for `process.env.PWD`.
 
 [![Build Status](https://secure.travis-ci.org/shuvalov-anton/process-pwd.png)](http://travis-ci.org/shuvalov-anton/process-pwd)
-[![Code Climate](https://codeclimate.com/github/shuvalov-anton/process-pwd.png)](https://codeclimate.com/github/shuvalov-anton/process-pwd)
 
 
 ## Install
