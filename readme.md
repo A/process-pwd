@@ -1,0 +1,16 @@
+# process-pwd
+
+Just wrapper for `process.env.PWD`.
+
+[![Build Status](https://secure.travis-ci.org/shuvalov-anton/process-pwd.png)](http://travis-ci.org/shuvalov-anton/process-pwd)
+[![Code Climate](https://codeclimate.com/github/shuvalov-anton/process-pwd.png)](https://codeclimate.com/github/shuvalov-anton/process-pwd)
+
+
+## Install
+
+    npm i --save node-pwd
+
+## Example
+
+    var pwd = require('process-pwd');
+    console.log(pwd); // '/Users/antonshuvalov/Desktop/node-pwd'
