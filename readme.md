@@ -1,6 +1,6 @@
 # process-pwd
 
-Just wrapper for `process.env.PWD`.
+Alias for `process.env.PWD`.
 
 [![Build Status](https://secure.travis-ci.org/shuvalov-anton/process-pwd.png)](http://travis-ci.org/shuvalov-anton/process-pwd)
 
